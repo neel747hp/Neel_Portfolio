@@ -25,6 +25,7 @@ body.dark .aside .nav li a.active,
   background-color: #57d131;
 }
 .contact-text,
+.about .about-content .about-text h3,
 .contact .contact-info-item .icon .fa,
 .about .about-content .skills h1,
 .timeline-text span,
